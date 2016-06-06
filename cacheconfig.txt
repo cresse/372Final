@@ -1,0 +1,13 @@
+Cache Line/Block size: 16 bytes
+L1d/L1i size: 32 entries
+L1d/L1d latency: 1ns
+L2 size: 512 entries
+L2 latency: 10ns
+L3 size: 2048 entries
+L3 latency: 35ns
+1LM size: 16KB
+1LM latency: 100ns
+2LM size: 1MB
+2LM Latency: Reads: 250ns, Writes: 400ns
+Cache Associativity: 2-way
+Write Policy: Writethrough
